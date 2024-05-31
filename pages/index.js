@@ -14,17 +14,17 @@ export default function Home() {
         <div className="bg-white opacity-75 absolute inset-0 flex flex-col items-center justify-center">
           <div className="flex">
             <h1 className="handwriting mb-8 text-center text-4xl lg:text-6xl animate__animated animate__fadeIn">
-              The wedding of
+              Khitan
             </h1>
           </div>
           <div className="flex">
             <h2 className="handwriting text-6xl :text-9xl animate__animated animate__fadeIn">
-              Siska & Denny
+              Arjuna & Azlan
             </h2>
           </div>
           <div className="flex animate__animated animate__fadeIn">
             <h3 className="text-sm lg:text-xl mb-4">
-              Minggu, 21 Februari 2021
+              Sabtu, 6 Juli 2024
             </h3>
           </div>
           <div className="flex flex-row space-x-8">
